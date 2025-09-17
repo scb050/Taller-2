@@ -1,0 +1,22 @@
+﻿format: jb-book
+root: intro
+chapters:
+  - file: notebooks/01_imports
+    title: "Capítulo 1: Imports y configuración"
+  - file: notebooks/02_carga_datos
+    title: "Capítulo 2: Carga de datos"
+  - file: notebooks/03_preparacion
+    title: "Capítulo 3: Preparación"
+  - file: notebooks/04_union
+    title: "Capítulo 4: Unión con shapefile"
+  - file: notebooks/05_mapas
+    title: "Capítulo 5: Mapas coropléticos"
+  - file: notebooks/06_validacion
+    title: "Capítulo 6: Validación"
+  - file: notebooks/07_conclusiones
+    title: "Capítulo 7: Conclusiones"
+
+
+
+
+
